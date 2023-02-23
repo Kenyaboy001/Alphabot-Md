@@ -53,8 +53,8 @@ global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
-   premium: "100000",
-   free: 1000
+   premium: "10000",
+   free: 100
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
